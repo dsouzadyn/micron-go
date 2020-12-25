@@ -8,7 +8,7 @@ import (
 	"os/signal"
 	"time"
 
-	"github.com/dsouzadyn/micron.go/handlers"
+	"github.com/dsouzadyn/micron-go.go/handlers"
 	"github.com/labstack/echo"
 	"github.com/labstack/echo/middleware"
 	"gopkg.in/yaml.v2"

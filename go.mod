@@ -1,4 +1,4 @@
-module github.com/dsouzadyn/micron.go
+module github.com/dsouzadyn/micron-go.go
 
 go 1.15
 
