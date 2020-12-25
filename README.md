@@ -1,5 +1,7 @@
 # :microscope: micron-go
 
+![Go](https://github.com/dsouzadyn/micron-go/workflows/Go/badge.svg)
+
 micron-go is a realy tiny microservice template.
 It comes with a bare minimum server and a config file.
 Does not come a database library :).
