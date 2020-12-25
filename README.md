@@ -15,3 +15,11 @@ $ ./bin/server
 ```sh
 $ go test ./... # The 3 '.'s are not a typo
 ```
+
+## Warning
+
+Incase you decide to change the cloned repo name please update it in these files...
+```
+go.mod
+server.go
+```
